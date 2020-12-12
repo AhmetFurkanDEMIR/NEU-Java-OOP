@@ -9,5 +9,5 @@ My code repository where I share my homeworks and exams for the Java (OOP) cours
 
 
 #### Assignment 1 - Company automation with nested classes
-* Soon
+* [ ] Soon
 
