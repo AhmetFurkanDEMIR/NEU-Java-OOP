@@ -9,7 +9,7 @@ My code repository where I share my homeworks and exams for the Java (OOP) cours
 
 
 #### Assignment 1 - Company automation with nested classes
-* [x] [Assignment 1](/Odev)
+* [x] [Assignment 1 (eclipse)](/Odev)
 
 
 #### Exam 2 (Final) - Java and OOP(Object Oriented Programming)
