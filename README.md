@@ -15,9 +15,9 @@ My code repository where I share my homeworks and exams for the Java (OOP) cours
 
 #### Exam 2 (Final) - Java and OOP(Object Oriented Programming)
 
-* [x] [Soon]
+* [x] [Final](/Final)
 
-#### Assignment 2 - Company automation with nested classes
+#### Assignment 2 - ArrayList and file operations.
 
 * [x] [Assignment 2 (eclipse)](/Odev1)
 
