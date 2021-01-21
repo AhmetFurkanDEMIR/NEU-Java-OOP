@@ -8,6 +8,11 @@ My code repository where I share my homeworks and exams for the Java (OOP) cours
 * [x] [Vize](/Vize)
 
 
+#### Quiz 1
+
+* [x] [Quiz 1](/NEU_OOP_Quiz)
+
+
 #### Assignment 1 - Company automation with nested classes
 
 * [x] [Assignment 1 (eclipse)](/Odev)
@@ -17,9 +22,16 @@ My code repository where I share my homeworks and exams for the Java (OOP) cours
 
 * [x] [Final](/Final)
 
+
+#### Quiz 2
+
+* [x] [Quiz 2](/NEU_OOP_Quiz2)
+
+
 #### Assignment 2 - ArrayList and file operations.
 
 * [x] [Assignment 2 (eclipse)](/Odev1)
+
 
 #### Exams in previous years
 
