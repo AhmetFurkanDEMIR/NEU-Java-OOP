@@ -1,0 +1,6 @@
+siyah, 18,+bmx.hiz
+beyaz, ,12, 8
+beyaz, 6, 8
+beyaz, 6, 8
+beyaz, 6, 10
+beyaz,6,10

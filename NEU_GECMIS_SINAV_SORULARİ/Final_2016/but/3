@@ -1,0 +1,32 @@
+import java.io.IOException;
+import java.io.FileWriter;
+
+public class Main {
+
+    public static void main(String[] args) throws IOException {
+
+        int sayac = 1;
+
+        for(;;) {
+            System.out.print("D, ");
+            try {
+                System.out.print ("F,");
+                if (sayac == 1)
+                    break;
+
+                System.out.print ("G,");
+            }catch (Exception e) {
+                System.out.print ("J,");
+            } finally {
+                System.out.print ("K,");
+            }
+            System.out.print("N, ");
+
+        }
+        System.out.print("P, ");
+
+    }
+
+}
+
+D, F,K,P,
